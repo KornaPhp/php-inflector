@@ -39,6 +39,7 @@ class FrenchFunctionalTest extends LanguageFunctionalTest
             ['pneu', 'pneus'],
             ['sarrau', 'sarraus'],
             ['journal', 'journaux'],
+            ['local', 'locaux'],
             ['détail', 'détails'],
             ['bail', 'baux'],
             ['corail', 'coraux'],
