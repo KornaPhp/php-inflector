@@ -14,6 +14,7 @@ final class Uninflected
         yield from self::getDefault();
 
         yield new Pattern('bois');
+        yield new Pattern('mas');
     }
 
     /** @return Pattern[] */
